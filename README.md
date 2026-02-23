@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KevserI
-- 👀 I’m interested in Data science and computer science 
+- 👀 I’m interested in Data and Analytics Engineering  
 - 🌱 I’m currently learning data analysis, data engineering, machine learning, deep learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :kevser.iyi@gmail.com , https://www.linkedin.com/in/kevser-i-44545263/
